@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="AuthorTest" tests="8" skipped="0" failures="0" errors="0" timestamp="2015-09-02T19:14:48" hostname="epicodus-106.local" time="0.246">
+  <properties/>
+  <testcase name="delete_deletesAllBookAndListAssociations" classname="AuthorTest" time="0.127"/>
+  <testcase name="addBook_addsBookToAuthor" classname="AuthorTest" time="0.027"/>
+  <testcase name="all_emptyAtFirst" classname="AuthorTest" time="0.009"/>
+  <testcase name="getBooks_returnsAllBooks_ArrayList" classname="AuthorTest" time="0.024"/>
+  <testcase name="removeBook_removesBookFromJoinTable" classname="AuthorTest" time="0.025"/>
+  <testcase name="save_savesIntoDatabase_true" classname="AuthorTest" time="0.012"/>
+  <testcase name="find_findAuthorInDatabase_true" classname="AuthorTest" time="0.013"/>
+  <testcase name="equals_returnsTrueIfTitlesAreTheSame" classname="AuthorTest" time="0.005"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
